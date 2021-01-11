@@ -1,0 +1,35 @@
+/*--------------responsive---------*/
+
+@media scren and (max-width: 480px){
+    .headerset h2{
+            font-size: 28px;}
+    .headerset h1{
+            font-size: 22px;}
+    .ourservice{
+            
+            height: 1200px;}
+     .portfolio{
+         height: 2700px;
+     }       
+    }
+    
+    @media(min-width: 992px){
+    .headerset h2{
+      font-size: 46px;
+    }
+    .headerset h1{
+      font-size: 56px;
+    }
+    
+    }
+    
+    @media(min-width: 768px) and (max-width: 991px){
+    
+    }
+    
+    @media(min-width: 575px) and (max-width: 767px){
+    
+    }
+    
+    @media(min-width: 480px) and (max-width: 574px){
+    

@@ -1,0 +1,163 @@
+.bg-img{
+    background-image: url(../images/pic2.JPG);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    width: 100%;
+    height: 600px;
+    transform: translate(rgba(0,0,0,0.5));
+}
+
+
+.headerset{
+    top: 50%,
+    left: 40%,
+    margin-top: 0px;
+    padding: 20px;
+    box-sizing: border-box;
+
+}
+.headerset h2{
+    margin-top: 20px;
+    font-size: 46px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.headerset h1{
+    margin-top: 200px;
+    font-size: 55px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+}
+.ourservice{
+    padding: 80px 0px 30px;
+    height: 700px;
+}
+.ourservice h1{
+    font-size: 50px;
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.rowsetting{
+    margin: 80px 0px;
+}
+.imgsetting{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+.font-icon{
+    margin-top: 25px;
+}
+
+.rowsetting h2{
+    margin-top: 20px;
+    font-weight: bold;
+  
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.rowsetting p{
+    padding: 10px;
+    color: rgb(71, 72, 73)!important;
+}
+section .card-img{
+    width: 300px;
+    height: 200px;
+}
+
+.portfolio{
+    width: 100%;
+    height: 1100px;
+    
+}
+.portfolio h2{
+    font-size: 30px;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.card{
+    margin-top: 30px;
+}
+
+/* -------------about--------*/
+
+.abtcontainer{
+    height: 500px;
+    width: 100%;
+    margin-top: -50px;
+    margin-bottom: 100px;
+    padding: 60px 0px 50px;
+    box-sizing: border-box;
+    border: 1px solid #111152;
+    border-radius: 20px;
+    
+}
+.abtcontainer h1{
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+.abtcontainer h3{
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 20px 10px 10px;
+}
+.abtcontainer p{
+    padding: 0px 10px;
+}
+/*------------ourteam*/
+.ourteam{
+    height: 600px;
+    padding: 70px 0px 30px;
+    width: 100%;
+    border-radius: 20px;
+}
+.ourteam h1{
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+.ourteam h3{
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.abtcontact{
+    height: 500px;
+    width: 100%;
+    padding: 40px 20px;
+    box-sizing: border-box;
+    border: 1px solid black;
+    border-radius: 20px;
+    margin-top: 100px;
+    
+}
+.abtcontact h3{
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-bottom: 20px 20px;
+    margin-left: 20px;
+
+}
+.abtcontact p{
+    margin-left: 20px;
+}
+.card{
+    width: 80%;
+    margin-left: 10%;
+}
+.form-group{
+    width: 80%;
+    height: 20px;
+    padding: 20px;
+    margin-bottom: 50px;
+}
+.form-group input{
+    font-size: 16px;
+}
+
+.footer{
+    margin: 30px;
+}
+
+
+
